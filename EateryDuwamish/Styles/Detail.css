@@ -1,0 +1,39 @@
+﻿.buttons{
+    padding-left: 550px;
+}
+
+.txtDesc{
+    background-color: rgba(215, 215, 215, 1);
+}
+
+.edit-button{
+    border-width: 0px;
+    width: 96px;
+    height: 33px;
+    background: inherit;
+    background-color: rgba(215, 215, 215, 1);
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(121, 121, 121, 1);
+    border-radius: 5px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #000000;
+}
+
+.save-button{
+    border-width: 0px;
+    right: 0;
+    width: 94px;
+    height: 33px;
+    background: inherit;
+    background-color: rgba(22, 155, 213, 1);
+    border: none;
+    border-radius: 5px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: white;
+}
